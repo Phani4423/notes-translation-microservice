@@ -1,0 +1,10 @@
+Django==4.2.0
+DjangoRESTFramework==3.14.0
+psycopg2-binary==2.9.6
+redis==5.0.0
+gunicorn==21.2.0
+python-dotenv==1.0.0
+requests==2.31.0
+libretranslate==1.8.0
+django-cors-headers==4.2.0
+django-extensions==3.2.3
